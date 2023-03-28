@@ -23,22 +23,20 @@
 <h2>How to reach me:</h2>
 <h3>Via email 📫 :</h3>
 
-:email: avare779@gmail.com
+:email: aszymanskaolejniczak@gmail.com
 <br>
 
 or...
 
-<img align="right" alt="iuliia-info-pic" width="80px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliia2.png"/>
 
 <h3>Find me around the web 🌎:</h3>
 
-<a href="https://www.facebook.com/yuliya.sokol/"><img align="left" alt="Facebook" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" width="32px"/></a>
+<a href="https://www.facebook.com/agnieszka.szymanskaolejniczak"><img align="left" alt="Facebook" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" width="32px"/></a>
 
-<a href="https://www.linkedin.com/in/iuliia-sokol/"><img align="left" alt="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="32px"/></a>
+<a href="https://www.linkedin.com/in/agnieszka-szyma%C5%84ska-olejniczak-011756244/"><img align="left" alt="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="32px"/></a>
                   
 <br>
 <br>
 <br>
 <br>
 <br>
-:blue_heart::yellow_heart:<b>Glory to Ukraine!</b> :blue_heart::yellow_heart:
