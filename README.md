@@ -19,6 +19,24 @@
 
  
 </p>
+<h3 align="left">My first React apps:</h3>
+ - 📒 <a href="https://szymanskaolejniczak.github.io/goit-react-hw-08-phonebook/" target="_blank">Redux Phonebook</a><br>
+ - 📽️ <a href="https://szymanskaolejniczak.github.io/goit-react-hw-05-movies/" target="_blank">Movie finder</a><br>
+ - 🔍 <a href="https://szymanskaolejniczak.github.io/goit-react-hw-04-images/" target="_blank">Image finder</a><br>
+
+<h3 align="left">My first JS apps:</h3>
+ - 🖼️ <a href="https://szymanskaolejniczak.github.io/goit-js-hw-11/" target="_blank">Image search from Pixabay </a><br>
+ - 🏳️ <a href="https://szymanskaolejniczak.github.io/goit-js-hw-10/" target="_blank">Country Selector </a><br> 
+- 🎴 <a href="https://szymanskaolejniczak.github.io/game-Puzzle-Dog/" target="_blank">Game-Puzzle </a><br>
+- :timer: <a href="https://szymanskaolejniczak.github.io/goit-js-hw-09/02-timer.html" target="_blank">Countdown Timer</a><br>
+
+<h3 align="left">My first HTML, CSS and JS project:</h3>
+ - 🖥️ <a href="https://szymanskaolejniczak.github.io/goit-markup-hw-08/" target="_blank">WebStudio</a><br>
+ - 🍦 Group project: <a href="https://jacekpietrzak.github.io/goit-icecream-group-5/" target="_blank">Ice Cream</a><br>
+ - 📽️ <a href="https://rafallpawlak.github.io/filmoteka-group-3/" target="_blank">Filmoteka</a><br>
+ 
+<br>
+<br>
 
 <h2>How to reach me:</h2>
 <h3>Via email 📫 :</h3>
