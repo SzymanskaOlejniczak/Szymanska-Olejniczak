@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aga</h1><img src="../images/Aga.png"/>
+<h1 align="center">Hi 👋, I'm Aga</h1>
 <h3 align="center">A beginer frontend developer from Poland 🇵🇱</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I'm a graduate of the course "Fullstack programmer from 0" on GoIt
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
